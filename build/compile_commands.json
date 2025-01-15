@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/home/sartre/labwork2-IntolerabilisExistentia/build/lib",
+  "command": "/usr/sbin/c++   -std=gnu++17 -o CMakeFiles/number.dir/number.cpp.o -c /home/sartre/labwork2-IntolerabilisExistentia/lib/number.cpp",
+  "file": "/home/sartre/labwork2-IntolerabilisExistentia/lib/number.cpp",
+  "output": "lib/CMakeFiles/number.dir/number.cpp.o"
+},
+{
+  "directory": "/home/sartre/labwork2-IntolerabilisExistentia/build/bin",
+  "command": "/usr/sbin/c++  -I/home/sartre/labwork2-IntolerabilisExistentia -std=gnu++17 -o CMakeFiles/labwork2.dir/main.cpp.o -c /home/sartre/labwork2-IntolerabilisExistentia/bin/main.cpp",
+  "file": "/home/sartre/labwork2-IntolerabilisExistentia/bin/main.cpp",
+  "output": "bin/CMakeFiles/labwork2.dir/main.cpp.o"
+},
+{
+  "directory": "/home/sartre/labwork2-IntolerabilisExistentia/build/tests",
+  "command": "/usr/sbin/c++  -I/home/sartre/labwork2-IntolerabilisExistentia -isystem /home/sartre/labwork2-IntolerabilisExistentia/build/_deps/googletest-src/googletest/include -isystem /home/sartre/labwork2-IntolerabilisExistentia/build/_deps/googletest-src/googletest -std=gnu++17 -o CMakeFiles/number_tests.dir/number_test.cpp.o -c /home/sartre/labwork2-IntolerabilisExistentia/tests/number_test.cpp",
+  "file": "/home/sartre/labwork2-IntolerabilisExistentia/tests/number_test.cpp",
+  "output": "tests/CMakeFiles/number_tests.dir/number_test.cpp.o"
+},
+{
+  "directory": "/home/sartre/labwork2-IntolerabilisExistentia/build/_deps/googletest-build/googlemock",
+  "command": "/usr/sbin/c++  -I/home/sartre/labwork2-IntolerabilisExistentia/build/_deps/googletest-src/googlemock/include -I/home/sartre/labwork2-IntolerabilisExistentia/build/_deps/googletest-src/googlemock -isystem /home/sartre/labwork2-IntolerabilisExistentia/build/_deps/googletest-src/googletest/include -isystem /home/sartre/labwork2-IntolerabilisExistentia/build/_deps/googletest-src/googletest -std=c++17 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/sartre/labwork2-IntolerabilisExistentia/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/home/sartre/labwork2-IntolerabilisExistentia/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+},
+{
+  "directory": "/home/sartre/labwork2-IntolerabilisExistentia/build/_deps/googletest-build/googlemock",
+  "command": "/usr/sbin/c++  -isystem /home/sartre/labwork2-IntolerabilisExistentia/build/_deps/googletest-src/googlemock/include -isystem /home/sartre/labwork2-IntolerabilisExistentia/build/_deps/googletest-src/googlemock -isystem /home/sartre/labwork2-IntolerabilisExistentia/build/_deps/googletest-src/googletest/include -isystem /home/sartre/labwork2-IntolerabilisExistentia/build/_deps/googletest-src/googletest -std=c++17 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/sartre/labwork2-IntolerabilisExistentia/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/home/sartre/labwork2-IntolerabilisExistentia/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+},
+{
+  "directory": "/home/sartre/labwork2-IntolerabilisExistentia/build/_deps/googletest-build/googletest",
+  "command": "/usr/sbin/c++  -I/home/sartre/labwork2-IntolerabilisExistentia/build/_deps/googletest-src/googletest/include -I/home/sartre/labwork2-IntolerabilisExistentia/build/_deps/googletest-src/googletest -std=c++17 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/sartre/labwork2-IntolerabilisExistentia/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/home/sartre/labwork2-IntolerabilisExistentia/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/home/sartre/labwork2-IntolerabilisExistentia/build/_deps/googletest-build/googletest",
+  "command": "/usr/sbin/c++  -isystem /home/sartre/labwork2-IntolerabilisExistentia/build/_deps/googletest-src/googletest/include -isystem /home/sartre/labwork2-IntolerabilisExistentia/build/_deps/googletest-src/googletest -std=c++17 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/sartre/labwork2-IntolerabilisExistentia/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/home/sartre/labwork2-IntolerabilisExistentia/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+}
+]

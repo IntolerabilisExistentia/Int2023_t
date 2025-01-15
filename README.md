@@ -1,5 +1,4 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12201885&assignment_repo_type=AssignmentRepo)
-# Лабораторная работа 2
+# Int2023
 
 ## Задача
 
@@ -39,13 +38,6 @@
 Пока все тесты не будут проходить показывать лабораторную - нельзя.
 Тесты при желании можно дополнять, но это не обязательно.
 
-### Если этого не хватило
-
-В директории **bin** находится консольное приложение, которые вы также можете использовать по вашему усмотрению, что бы проверить свой код.
-Для запуска выполнить след команду:
-
-***cmake --build . --target labwork2 && bin/labwork2*** или воспользоваться IDE
-
 ## Примечание
  - Переполнение - Undefined Behavior
 
@@ -56,10 +48,3 @@
 ## Дополнительно
  - cmake
  - GoogleTest
-
-
-## Deadline
-
-1. 17.10.23 24:00 - 0.8
-2. 24.10.23 24:00 - 0.65
-3. 31.10.23 24:00 - 0.5
